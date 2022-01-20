@@ -1,0 +1,5 @@
+- 👋 Hi, My name is Reda and I like to code.
+- 👀 I’m interested to become a full stack web apps developer.
+- 🌱 I’m currently learning React and NodeJs
+- 📫 you can reach me @med_thelunatic on Instagram
+- Check out my first React app [taskTracker](https://reda-codes.github.io/taskTracker/).
