@@ -8,4 +8,4 @@
 <br><a href="www.linkedin.com/in/Reda-Med" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <a href="https://www.instagram.com/med_thelunatic/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
 <a href="https://twitter.com/Med_thelunatic" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
-<a href="redux4.0@protonmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/email.png"/></a>
+<a href="mailto:redux4.0@protonmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/email.png"/></a>
