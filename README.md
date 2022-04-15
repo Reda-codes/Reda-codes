@@ -3,7 +3,7 @@
 :globe_with_meridians: I work using the following technologies:<br>
 `| Html | Css | JavaScript | Python | BootStrap | Sass | JQuery | ReactJs | Redux | Npm | NodeJs|` <br>
 :teacher: I'm currently learning how to build full stack web apps using React and NodeJs.<br>
-:computer: Check out my first React app <a href="https://tasktracker.redacodes.repl.co/" target="_blank">taskTracker</a>.<br>
+:computer: Check out my React apps <a href="https://tasktracker.redacodes.repl.co/" target="_blank">taskTracker</a> & <a href="https://reda-codes.github.io/RandomQuoteGenerator/" target="_blank">RandomQuoteGenerator</a>.<br>
 <br><img src="https://github-readme-stats.vercel.app/api?username=Reda-codes&show_icons=true&count_private=true" width="47%" height="auto"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reda-codes&layout=compact&show_icons=true/" width="47%" height="auto"/><br>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Reda-codes" width="47%" height="auto"/></p><br>
 <p align="center"><a href="www.linkedin.com/in/RedaCodes" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
