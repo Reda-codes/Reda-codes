@@ -6,7 +6,7 @@
 :computer: Check out my React apps <a href="https://tasktracker.redacodes.repl.co/" target="_blank">taskTracker</a> & <a href="https://reda-codes.github.io/RandomQuoteGenerator/" target="_blank">RandomQuoteGenerator</a>.<br>
 <br><img src="https://github-readme-stats.vercel.app/api?username=Reda-codes&show_icons=true&count_private=true" width="47%" height="auto"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reda-codes&layout=compact&show_icons=true/" width="47%" height="auto"/><br>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Reda-codes" width="47%" height="auto"/></p><br>
-<p align="center"><a href="www.linkedin.com/in/RedaCodes" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<p align="center"><a href="https://www.linkedin.com/in/reda-med/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <a href="https://www.instagram.com/med_thelunatic/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
 <a href="https://twitter.com/Med_thelunatic" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
 <a href="mailto:redux4.0@protonmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/email.png"/></a></p>
